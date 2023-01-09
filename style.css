@@ -1,0 +1,388 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+ body {
+   color: #557571;
+   font-family: "Montserrat",Sans-serif;
+   background-color: rgb(249, 202, 125);
+   font-size: 14px;
+   box-sizing: inherit;
+}
+
+
+ @media (min-width: 360px) {
+   
+   header{
+      background-color: rgb(249, 202, 125);
+      
+   }
+   
+   }   
+
+   h1{
+      font-size: 40px; 
+      color: rgb(150, 148, 146);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      height: 30px;
+      margin-top: 5px;
+      margin-left: 580px;
+   }
+
+   #pesquisadeProdutos{ 
+      margin-bottom: 10px;
+      height: 30px;
+      margin-left: 40px;
+   
+   }
+   
+   nav ul li{
+      display: inline;
+      margin-left: 30px;
+   }
+
+   nav{
+      background-color: rgb(255, 196, 0);
+   }
+   ul{
+      padding: 10px;
+      text-align: center;
+      color: rgb(182, 189, 189);
+      font-size: 20px;
+   }
+   p{
+      font-size: 20px; 
+      height: 500px;
+      margin-top: 50px;
+      margin-left: 550px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+   }
+
+
+ footer h1{ 
+      color: #557571;
+      font-size: 20px; 
+      height: 30px;
+      margin-top: 20px;
+      margin-left: 20px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      display: inline;
+ }
+ h2{
+      color: #557571;
+      font-size: 20px; 
+      height: 20px;
+      margin-top: 20px;
+      margin-left: 550px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      display: inline;  
+   }
+   
+
+
+ @media (min-width: 659px) {
+   
+   header{
+      background-color: rgb(249, 202, 125);
+   }
+      
+
+
+
+   h1{
+      font-size: 40px; 
+      color: rgb(150, 148, 146);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      height: 30px;
+      margin-top: 5px;
+      margin-left: 580px;
+   }
+
+   #pesquisadeProdutos{ 
+      margin-bottom: 10px;
+      height: 30px;
+      margin-left: 40px;
+   
+   }
+    
+   nav ul li{
+      display: inline;
+      margin-left: 30px;
+   }
+
+   nav{
+      background-color: rgb(255, 196, 0);
+   }
+   ul{
+      padding: 10px;
+      text-align: center;
+      color: rgb(182, 189, 189);
+      font-size: 20px;
+   }
+   p{
+      font-size: 20px; 
+      height: 500px;
+      margin-top: 50px;
+      margin-left: 550px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+   }
+
+
+ footer h1{ 
+   color: #557571;
+   font-size: 20px; 
+   height: 30px;
+   margin-top: 20px;
+   margin-left: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   display: inline;
+}
+
+h2{
+   color: #557571;
+   font-size: 20px; 
+   height: 20px;
+   margin-top: 20px;
+   margin-left: 550px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   display: inline;  
+}
+
+
+ @media (min-width: 900px) {
+   body{
+      width: 100vw;
+   }
+
+   header{
+      background-color: rgb(249, 202, 125);
+      width: 500px;
+      height: 250px;
+   }
+
+   #logo{
+      width: 250px;
+   }
+   #posiconamentoImg{
+      position: absolute;
+      top: 6vh;
+      left: 40vw;
+   }
+   #bntBusca{
+      height: 20px;
+      width: 20px;
+      background-position: 10px 10px; 
+      margin-left: 418px;
+      margin-top: -90px;
+      margin-bottom: 18px;
+   }
+       
+     
+   #pesquisarProduto{   
+      height: 30px;
+      width: 350px;
+      left: 42px;
+      margin-top: 150px;
+      margin-left: 100px;
+      border-radius: 50px;
+   }
+
+   ul li{
+      display: inline;
+      height: 50px;
+      margin-top: 50px;
+      margin-left: 100px; 
+      color: rgb(199, 198, 191);
+      
+   }
+   #menuDois{
+      color: rgb(14, 13, 13);
+      position: absolute;
+      height: 50px;
+      left: 60vw;
+      top: 13vh;
+   }
+   #sacola{
+      height: 50px;
+      width: 50px;
+      background-position: 10px 10px; 
+   }
+    
+   #one{
+      background-color: rgb(255, 196, 0);
+      padding: 10px;
+      top: 100px;
+   }
+   nav ul li{
+      display: inline;
+      margin-left: 100px;
+      color: rgb(199, 198, 191);
+      font-size: 20px;
+      margin-right: 0px;
+   }
+
+   ul{
+      padding: 10px;
+      text-align: center;
+      color: rgb(247, 243, 243);
+   }
+
+   #kitpapeleira{
+      height: 300px;
+      margin-top: -200px;
+      margin-left: 50px;
+   }
+   p{
+      font-size: 20px; 
+      color: rgb(91, 105, 233);
+      height: 180px;
+      margin-top: 50px;
+      margin-left: 745px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+
+
+   #two{
+      background-color: rgb(248, 221, 172);
+      padding: 30px;
+      margin-bottom: 0px;
+      margin-top: 20px;
+   
+   }
+   #menuTres{
+      display: inline;
+      color: rgb(17, 16, 16);
+      font-size: 50px;
+      margin-left: 100px;
+      height: 200px;
+   }
+  
+  
+
+   footer h1{ 
+      color: rgb(16, 17, 17);
+      font-size: 20px; 
+      height: 300px;
+      margin-top: 100px;
+      margin-left: 50px;
+      display: inline;
+      position: absolute; 
+      top: 110vh;
+ }
+   h2{
+      color: rgb(16, 17, 17);
+      font-size: 20px; 
+      height: 300px;
+      margin-top: 100px;
+      margin-left: 800px;
+      display: inline; 
+      position: absolute; 
+      top: 110vh;
+   }
+
+#title1{
+   color: rgb(91, 105, 233); 
+   margin-top: 50px;
+   margin-bottom: 50px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#cartaodevisita{
+       margin: 10px;
+       border: 1px solid rgb(17, 17, 17);
+       float: left;
+       width: 500px;
+}
+#cartoes{font-size: 20px;}
+
+#agenda{
+      margin: 10px;
+       border: 1px solid rgb(199, 198, 191);
+       float: left;
+       width: 600px;
+}
+#agendas{
+   font-size: 30px;
+}
+
+#kit{
+       margin: 10px;
+       border: 1px solid rgb(199, 198, 191);
+       float: left;
+       width: 300px;
+       height: 200px;
+}
+#kits{font-size: 20px;}
+
+#tags{
+       margin: 10px;
+       border: 1px solid rgb(199, 198, 191);
+       float: left;
+       width: 300px;
+}
+#tagss{font-size: 20px;}
+
+
+
+#title2{
+   color: rgb(91, 105, 233); 
+   margin-top: 50px;
+   margin-bottom: 50px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+#title3{
+   color: rgb(91, 105, 233); 
+   margin-top: 50px;
+   margin-bottom: 50px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+
+
+#title4{
+   color: rgb(91, 105, 233); 
+   margin-top: 50px;
+   margin-bottom: 50px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+input[type=text], select {
+   width: 900px;
+   padding: 12px 20px;
+   margin: 8px 0;
+   display: inline-block;
+   border: 1px solid #ccc;
+   border-radius: 10px;
+   box-sizing: border-box;
+ }
+ 
+ input[type=submit] {
+   width: 900px;
+   background-color: #4CAF50;
+   color: white;
+   padding: 14px 20px;
+   margin: 8px 0px;
+   border: none;
+   border-radius: 10px;
+   cursor: pointer;
+ }
+ 
+ input[type=submit]:hover {
+   background-color: #45a049;
+ }
+ 
+#posicionamentoForm{
+   border-radius: 5px;
+   background-color: rgb(249, 202, 125);
+   padding: 200px;
+   margin-left: 100px;
+   margin-top: 110px;
+   
+ }
+
+}
+  
